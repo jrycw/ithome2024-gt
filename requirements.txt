@@ -1,0 +1,5 @@
+great_tables[all]
+pandas
+polars
+pyarrow
+yfinance
